@@ -1,6 +1,11 @@
 # Renan Valani - Analytics Engineer and Data Scientist
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-renanvalani-blue?style=flat&logo=linkedin)  ![GitHub](https://img.shields.io/badge/GitHub-revalani-black?style=flat&logo=github)
+![Google Developers](https://img.shields.io/badge/Google%20Developers-revalani-black?style=flat&logo=google) ![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-renanvalani-blue?style=flat&logo=microsoft)
+
+![Alura Courses](https://img.shields.io/badge/Alura%20Courses-renanvalani-blue?style=flat&logo=alura) ![Alura Vitrine Dev](https://img.shields.io/badge/Alura%20Vitrine%20Dev-renanvalani-blue?style=flat&logo=alura)
+
+You can use these badges as links in your profiles or websites to showcase your presence on these platforms.
 
 🚀 I am Renan Valani, a professional passionate about Analytics, Data Science, Data Engineering, and Processes. I work as an Analytics Engineer, seeking innovative solutions and valuable insights for decision-making. I am a bachelor's student in Mathematical Sciences at UFRJ (Federal University of Rio de Janeiro), and I have a technical background in Computer Science. My passion for the intersection of Mathematics, Computing, and Statistics makes me a versatile professional.
 
