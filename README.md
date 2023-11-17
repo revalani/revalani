@@ -1,9 +1,11 @@
 # Renan Valani - Analytics Engineer and Data Scientist
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-renanvalani-blue?style=flat&logo=linkedin)  ![GitHub](https://img.shields.io/badge/GitHub-revalani-black?style=flat&logo=github)
-![Google Developers](https://img.shields.io/badge/Google%20Developers-revalani-black?style=flat&logo=google) ![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-renanvalani-blue?style=flat&logo=microsoft)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-renanvalani-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/renanvalani/)  
+[![GitHub](https://img.shields.io/badge/GitHub-revalani-black?style=flat&logo=github)](https://github.com/revalani)
+[![Google Developers](https://img.shields.io/badge/Google%20Developers-revalani-black?style=flat&logo=google)](https://developers.google.com/profile/u/105819554383170686110)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-renanvalani-blue?style=flat&logo=microsoft)](https://learn.microsoft.com/en-us/contributors/renanvalani)
 
-![Alura Courses](https://img.shields.io/badge/Alura%20Courses-renanvalani-blue?style=flat&logo=alura) ![Alura Vitrine Dev](https://img.shields.io/badge/Alura%20Vitrine%20Dev-renanvalani-blue?style=flat&logo=alura)
+[![Alura Courses](https://img.shields.io/badge/Alura%20Courses-renanvalani-blue?style=flat&logo=alura)](https://cursos.alura.com.br/user/renanvalani)
 
 You can use these badges as links in your profiles or websites to showcase your presence on these platforms.
 
