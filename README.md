@@ -1,15 +1,15 @@
 # Renan Valani - Analytics Engineer and Data Scientist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-renanvalani-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/renanvalani/)  
-[![GitHub](https://img.shields.io/badge/GitHub-revalani-black?style=flat&logo=github)](https://github.com/revalani)
-[![Google Developers](https://img.shields.io/badge/Google%20Developers-revalani-black?style=flat&logo=google)](https://developers.google.com/profile/u/105819554383170686110)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-renanvalani-blue?style=flat&logo=microsoft)](https://learn.microsoft.com/en-us/contributors/renanvalani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-renanvalani-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/renanvalani/)
 
+[![GitHub](https://img.shields.io/badge/GitHub-revalani-black?style=flat&logo=github)](https://github.com/revalani)
+[![Google Developers](https://img.shields.io/badge/Google%20Developers-revalani-black?style=flat&logo=google)](https://g.dev/revalani)  
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-renanvalani-blue?style=flat&logo=microsoft)](https://learn.microsoft.com/pt-br/users/renanvalani/)
 [![Alura Courses](https://img.shields.io/badge/Alura%20Courses-renanvalani-blue?style=flat&logo=alura)](https://cursos.alura.com.br/user/renanvalani)
 
 You can use these badges as links in your profiles or websites to showcase your presence on these platforms.
 
-🚀 I am Renan Valani, a professional passionate about Analytics, Data Science, Data Engineering, and Processes. I work as an Analytics Engineer, seeking innovative solutions and valuable insights for decision-making. I am a bachelor's student in Mathematical Sciences at UFRJ (Federal University of Rio de Janeiro), and I have a technical background in Computer Science. My passion for the intersection of Mathematics, Computing, and Statistics makes me a versatile professional.
+🚀 I am Renan Valani, a professional passionate about Aplicated Science with Analytics, Data and Processes. I work as an Analytics Engineer, seeking innovative solutions and valuable insights for decision-making. I am a bachelor's student in Mathematical Sciences at UFRJ (Federal University of Rio de Janeiro), and I have a technical background in Computer Science. My passion for the intersection of Mathematics, Computing, and Statistics makes me a versatile professional.
 
 ## Summary
 
@@ -26,33 +26,28 @@ You can use these badges as links in your profiles or websites to showcase your 
 ## Core Competencies
 
 - Google Analytics
-- Data Engineering
+- Data Analytics
 - Data Science
-- Data Collection
 - Analytical Skills
+- Statistical Skills
 
 ## Technical Skills
 
 - Python
 - Pandas
 - Flask
-- Spark
-- AWS
+- Cloud (GCP, AWS)
 - Power BI
 - Looker
 - Google Tag Manager
 - Data Lakes
 - SQL
 - Git
-- IReport
-- Database Modeling
-- Google Cloud Platform (GCP)
 - Data Visualization
 - Lean
 - Kanban
 - PDCA
 - Web Scraping
-- Microsoft Power BI
 - DAX (Data Analysis Expressions)
 - Data Warehouse
 - ETL (Extraction, Transformation, and Loading)
@@ -60,25 +55,7 @@ You can use these badges as links in your profiles or websites to showcase your 
 - Relational Databases
 - Linux
 - Statistics
-- ETL Process
 - Agile Methodologies
 - Business Intelligence (BI) Tools
 
-see more on my linkedin: ![LinkedIn](https://img.shields.io/badge/LinkedIn-renanvalani-blue?style=flat&logo=linkedin)
-
-
-
-<!--
-**revalani/revalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+see more on my linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-renanvalani-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/renanvalani/)
